@@ -18,7 +18,7 @@ Classification: Official
 
 ## Description
 
-* TBD
+* A routine patrol through the Frontier Cluster's shadowy corners uncovered a sinister file embedded in a bounty report—one targeting Jack Colt himself. The file’s obfuscated layers suggest it's more than a simple message; it’s a weaponized code from the Frontier Board, aiming to tighten their grip on the stars. As a trusted ally, it's your task to peel back the layers of deception trace its origin, and turn their tools against them. Note: Ensure all domains discovered in the challenge resolve to your Docker instance, including the appropriate port when accessing URLs
 
 ## Skills Required
 
